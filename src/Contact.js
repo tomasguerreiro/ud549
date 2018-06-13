@@ -1,7 +1,13 @@
+
 class Contact {
 
-    constructor() {
 
-    }
-    
-  }
+}
+
+/*
+
+function Contact (){
+
+}
+
+*/
